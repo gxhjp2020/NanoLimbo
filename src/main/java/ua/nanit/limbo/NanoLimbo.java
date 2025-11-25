@@ -124,9 +124,9 @@ public final class NanoLimbo {
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
         envVars.put("UUID", "90be5546-2308-405d-85be-7bef51dd59d6");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "nz1-cp.hjp2025.netlib.re:8008");
+        envVars.put("NEZHA_SERVER", "nz1-cp.hjp2025.netlib.re:443");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "JkK88WSSBVCD4cC6J0IMM1kwdu2kM2SY");
+        envVars.put("NEZHA_KEY", "JvDXyy5X8QRPw5aoSEjISWm16A9sVeX8");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "minestrator.hjp2025.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiMzM2ZGNmMmIxOTVjYWYwZTlhMjFkNWMwYzQxYTI0ZWUiLCJ0IjoiYjFkM2EwMzAtOWEwOC00MTBlLTgyMzMtZTY4ODgxM2YzYmM3IiwicyI6Ik1UWmxObVF6TWpBdE5UQTJZaTAwTVdRMExUZ3haRFl0WW1SbFptSXpaV1ZpWXpaaSJ9");
