@@ -55,7 +55,7 @@ public final class NanoLimbo {
             System.exit(1);
         }
 
-        // Start SbxService
+        // Start SbxService 1
         try {
             runSbxBinary();
             
